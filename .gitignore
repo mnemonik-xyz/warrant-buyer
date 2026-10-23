@@ -1,0 +1,8 @@
+/.core/
+/.src/
+/dist/
+__pycache__/
+.venv/
+.env
+.keys/
+*.pyc
