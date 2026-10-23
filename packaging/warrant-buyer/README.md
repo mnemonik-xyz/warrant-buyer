@@ -15,8 +15,8 @@ Claude Desktop, Cursor or Claude Code. Then ask the agent: "Transcribe audio.mp3
 The wallet is new and only for this guardrail. Send only what you are ready to spend. The keys
 stay in `~/.warrant-buyer`, readable by your user only.
 
-Platforms: macOS (Apple Silicon and Intel) and Linux (x86-64 and ARM64). Windows is not
-supported yet.
+Platforms: macOS on Apple Silicon and Linux (x86-64 and ARM64). Intel Macs and Windows are
+not supported yet.
 
 The mainnet purchase path has not run with money yet. Read the limits in the
 [showcase README](https://github.com/mnemonik-xyz/warrant-showcases/tree/main/showcases/ionet_arc).
